@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\joann\OneDrive\Desktop\cs\github\COMSCI32\project 3\Visual Studio C++ Ver\Project3 VisualStudioC++\Main.cpp(69,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\joann\OneDrive\Desktop\cs\github\COMSCI32\project 3\Visual Studio C++ Ver\Project3 VisualStudioC++\Main.cpp(76,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Project3 VisualStudioC++.vcxproj -> C:\Users\joann\OneDrive\Desktop\cs\github\COMSCI32\project 3\Visual Studio C++ Ver\x64\Debug\Project3 VisualStudioC++.exe
